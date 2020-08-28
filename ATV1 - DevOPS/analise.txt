@@ -1,0 +1,5 @@
+O projeto tem escopo um software que atenda clientes e motoristas, tendo como limite o preço de cada viagem até 10 dólares.
+Analisando os resquisitos básicos, o sistema deverá fornecer uma plataforma aonde pessoas poderam fazer um cadastro, tanto para
+clientes como motoristas. Nesse cadastro será pedido dados pessoais dos clientes, e para os motoristas além dos dados pessoais
+será pedido documentos que comprovem que ele está apto a dirigir. A partir disto, o software nessecitará da localização do usuário, 
+para ligar clientes a motoristas que estejam sem passageiros, podendo assim começar a viagem.

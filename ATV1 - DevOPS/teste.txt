@@ -1,0 +1,1 @@
+O QA será feito por analistas capacitados de forma manual e também com o auxílio de testes unitários que possibilitam a exposição de erros de código ao programador. Os bugs reportados entrarão numa sprint de manutenção.

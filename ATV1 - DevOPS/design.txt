@@ -1,0 +1,6 @@
+O software será construido dentro da plataforma mobile, que poderá ser utilizado nos mais diversos sistemas operacionais, como
+iOS e Android. Na parte inicial do palicativo terá uma tela de cadastro para o usuários com dois links, uma para clientes e 
+outro para motoristas. Cada tela de cadastro terá formulários para serem respondidos com informações pessoais e específicas
+para os 2 tipos de usuários. Aonde entrar na tela, o usuário poderá pedir um carro que esteja mais próximo da sua localização, 
+recebendo assim informações do motorista, carro, valor e tempo de viagem. Já o motorista mais próximo do cliente, receberá uma 
+notifiaçação de nova viajem, tendo a opção de aceitar ou não.
